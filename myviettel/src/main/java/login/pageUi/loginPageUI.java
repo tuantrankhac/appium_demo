@@ -20,6 +20,7 @@ public class loginPageUI {
 
     public static final String VALIDATE_MESSAGE_SDT = "//android.widget.TextView[@resource-id=\"com.vttm.vietteldiscovery:id/tv_phone_error\"]";
     public static final String VALIDATE_MESSAGE_PASSWORD = "//android.widget.TextView[@resource-id=\"com.vttm.vietteldiscovery:id/tv_password_error\"]";
+    public static final String INVALID_SDT_PASS_MESSAGE = "";
 
 
 

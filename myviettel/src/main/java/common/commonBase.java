@@ -409,24 +409,15 @@ public class commonBase {
 
 
 
-	public WebElement waitForElementVisible(WebDriver driver, String xpathLocator) {
+	public WebElement waitForElementVisible(String xpathLocator) {
 		WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(shortTimeout));
 		return wait.until(ExpectedConditions.visibilityOfElementLocated(getByXpath(xpathLocator)));
-	}
-
-	public boolean isElementVisible(String xpathLocator) {
-		try {
-			driver.findElement(getByXpath(xpathLocator));
-			return true;
-		}catch (NoSuchElementException e) {
-			return false;
-		}
 	}
 
 
 	public WebElement getElementPresent(String xpathLocator) {
 		try {
-			WebElement element = waitForElementVisible(driver, xpathLocator);
+			WebElement element = waitForElementVisible(xpathLocator);
 			return element;
 		} catch (Exception e) {
 			System.out.println("Timeout while waiting for element: " + e.getMessage());
@@ -557,6 +548,7 @@ public class commonBase {
 			info("Khong capture duoc man hinh");
 		}
 	}
+
 
 	/**
 	 * get datetime

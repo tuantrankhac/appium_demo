@@ -1,6 +1,5 @@
 package login.testSuite;
 
-
 import common.commonBase;
 import io.appium.java_client.AppiumDriver;
 import login.pageObject.loginPO;
@@ -12,11 +11,15 @@ import static common.TestLogger.info;
 
 
 public final class Login extends commonBase {
+	String sdt, password;
 
 	@BeforeClass
 	public void init() {
 		driver = initDriverTestAndroid("R5CW134H25Z", "Android", "14.0", "com.vttm.vietteldiscovery",
 				"com.vttm.myviettelV2.activity.NFirstUserActivity", "8207");
+
+		sdt = "0342992917";
+		password = "123456";
 	}
 
 	@Test
@@ -47,10 +50,11 @@ public final class Login extends commonBase {
 		getElementPresent(loginPageUI.FINGER_PRINT_BT);
 		getElementPresent(loginPageUI.FORGOT_PW_LINK);
 		getElementPresent(loginPageUI.DKY_NGAY_LINK);
+
 	}
 
 	@Test
-	public void TC_002_Login_Voi_Du_Lieu_Trong() {
+	public void TC_002_Login_Voi_Du_Lieu_Trong_Tab_Di_Dong() {
 		info("Bấm vào nút 'Đăng nhập'");
 		click(loginPageUI.LOGIN_BT);
 		info("Verify message hiển thị tại trường SĐT");
@@ -65,9 +69,8 @@ public final class Login extends commonBase {
 		verifyCompare(passwordTrongMessage,"Mật khẩu không được để trống.");
 	}
 
-
 	@Test
-	public void TC_003_Login_Voi_SDT_Khong_Hop_Le() {
+	public void TC_003_Login_Voi_SDD_Khong_Hop_Le() {
 		info("Nhập vào số điện thoại nhỏ hơn 9 ký tự");
 		loginPage.enterSDTToTextbox("033333");
 		info("Bấm vào nút 'Đăng nhập'");
@@ -83,11 +86,46 @@ public final class Login extends commonBase {
 		verifyCompare(validateSdtMessage, "Số điện thoại từ 9 đến 12 ký tự.");
 	}
 
+	@Test
+	public void TC_004_Login_Voi_Mat_Khau_Khong_Chinh_Xac(){
+		info("Nhập vào số điện thoại hợp lệ");
+		loginPage.enterSDTToTextbox(sdt);
+		info("Nhập vào mật khẩu không chính xác");
+		loginPage.enterMKToTextbox(password);
+		info("Bấm vào nút 'Đăng nhập'");
+		click(loginPageUI.LOGIN_BT);
+		info("Verify message hiển thị");
+		isDisplay(loginPageUI.INVALID_SDT_PASS_MESSAGE);
+
+	}
+
+	@Test
+	public void TC_005_Login_Voi_Du_Lieu_Trong_Tab_Co_Dinh(){
+
+
+	}
+
+	@Test
+	public void TC_006_Login_So_Co_Dinh_Khong_Hop_Le(){
+
+
+	}
+
+	@Test
+	public void TC_007_Login_Thanh_Cong_Voi_So_DD(){
+
+	}
+
+	@Test
+	public void TC_007_Login_Thanh_Cong_Voi_So_CD(){
+
+	}
 
 	@AfterClass (alwaysRun = true)
 	public void after() {
 		quitDriver(driver);
 	}
+
 
 	loginPO loginPage;
 }
