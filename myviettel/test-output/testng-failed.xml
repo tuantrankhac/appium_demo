@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="none" name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test name="Default test" verbose="2">
+    <classes>
+      <class name="ikame.chatai.testsuite.TS_02_Logic_Chat_AI_Midj_Art">
+        <methods>
+          <include name="TS_029_Logic_Midj_Art_Generate_Art_Primary_Free_Tries_Left"/>
+        </methods>
+      </class> <!-- ikame.chatai.testsuite.TS_02_Logic_Chat_AI_Midj_Art -->
+    </classes>
+  </test> <!-- Default test -->
+</suite> <!-- Failed suite [Default suite] -->

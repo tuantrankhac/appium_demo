@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Login" verbose="1" preserve-order="true">
+	<test name="Connect" enabled="true">
+	<packages>
+		<package name="login.testSuite.Login" />
+	</packages>
+	</test>
+	<listeners>
+<listener class-name="common.TestReport"/>
+</listeners>
+</suite>
