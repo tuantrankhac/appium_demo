@@ -89,9 +89,5 @@ public final class Login extends commonBase {
 		quitDriver(driver);
 	}
 
-
 	loginPO loginPage;
-	public static loginPO getHomePage(WebDriver driver) {
-		return new loginPO((AppiumDriver) driver);
-	}
 }

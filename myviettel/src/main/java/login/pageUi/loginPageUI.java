@@ -18,8 +18,8 @@ public class loginPageUI {
     public static final String FINGER_PRINT_BT = "//android.widget.ImageView[@resource-id=\"com.vttm.vietteldiscovery:id/iv_fingerprint\"]";
     public static final String FORGOT_PW_LINK = "//android.widget.TextView[@resource-id=\"com.vttm.vietteldiscovery:id/tv_forgot_password\"]";
 
-    public static final String VALIDATE_MESSAGE_SDT = "";
-    public static final String VALIDATE_MESSAGE_PASSWORD = "";
+    public static final String VALIDATE_MESSAGE_SDT = "//android.widget.TextView[@resource-id=\"com.vttm.vietteldiscovery:id/tv_phone_error\"]";
+    public static final String VALIDATE_MESSAGE_PASSWORD = "//android.widget.TextView[@resource-id=\"com.vttm.vietteldiscovery:id/tv_password_error\"]";
 
 
 

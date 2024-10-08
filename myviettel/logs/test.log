@@ -17482,3 +17482,82 @@
 2024-10-08 15:41:16,246 INFO  [Login     ][TC_002_Login_Voi_Du_Lieu_Trong] Bấm vào nút 'Đăng nhập'
 2024-10-08 15:41:16,476 INFO  [Login     ][TC_002_Login_Voi_Du_Lieu_Trong] Verify message hiển thị tại trường SĐT
 2024-10-08 15:41:16,492 INFO  [Login     ][TC_003_Login_Voi_SDT_Khong_Hop_Le] Nhập vào số điện thoại nhỏ hơn 9 ký tự
+2024-10-08 16:07:31,666 INFO  [Login     ][TC_003_Login_Voi_SDT_Khong_Hop_Le] Nhập vào số điện thoại nhỏ hơn 9 ký tự
+2024-10-08 16:07:50,358 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Open app
+2024-10-08 16:07:51,292 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Tap vào nút Tiếp tục
+2024-10-08 16:07:52,148 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Tap vào nút Tiếp tục
+2024-10-08 16:07:53,048 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Tap vào nút Khám phá ngay
+2024-10-08 16:07:53,326 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Kiểm tra các thành phần trên màn
+2024-10-08 16:07:57,668 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Click vào nút đăng nhập bằng mật khẩu
+2024-10-08 16:08:00,384 INFO  [Login     ][TC_002_Login_Voi_Du_Lieu_Trong] Bấm vào nút 'Đăng nhập'
+2024-10-08 16:08:01,244 INFO  [Login     ][TC_002_Login_Voi_Du_Lieu_Trong] Verify message hiển thị tại trường SĐT
+2024-10-08 16:08:01,500 INFO  [Login     ][TC_002_Login_Voi_Du_Lieu_Trong] Nhập vào số điện thoại hợp lệ
+2024-10-08 16:08:01,505 INFO  [Login     ][TC_003_Login_Voi_SDT_Khong_Hop_Le] Nhập vào số điện thoại nhỏ hơn 9 ký tự
+2024-10-08 16:11:57,021 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Open app
+2024-10-08 16:11:58,008 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Tap vào nút Tiếp tục
+2024-10-08 16:11:58,864 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Tap vào nút Tiếp tục
+2024-10-08 16:11:59,731 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Tap vào nút Khám phá ngay
+2024-10-08 16:12:00,032 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Kiểm tra các thành phần trên màn
+2024-10-08 16:12:04,208 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Click vào nút đăng nhập bằng mật khẩu
+2024-10-08 16:12:07,104 INFO  [Login     ][TC_002_Login_Voi_Du_Lieu_Trong] Bấm vào nút 'Đăng nhập'
+2024-10-08 16:12:07,946 INFO  [Login     ][TC_002_Login_Voi_Du_Lieu_Trong] Verify message hiển thị tại trường SĐT
+2024-10-08 16:12:08,244 INFO  [Login     ][TC_002_Login_Voi_Du_Lieu_Trong] Nhập vào số điện thoại hợp lệ
+2024-10-08 16:12:08,254 INFO  [Login     ][TC_003_Login_Voi_SDT_Khong_Hop_Le] Nhập vào số điện thoại nhỏ hơn 9 ký tự
+2024-10-08 16:16:08,579 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Open app
+2024-10-08 16:16:09,539 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Tap vào nút Tiếp tục
+2024-10-08 16:16:10,409 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Tap vào nút Tiếp tục
+2024-10-08 16:16:11,298 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Tap vào nút Khám phá ngay
+2024-10-08 16:16:11,599 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Kiểm tra các thành phần trên màn
+2024-10-08 16:16:15,784 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Click vào nút đăng nhập bằng mật khẩu
+2024-10-08 16:16:18,363 INFO  [Login     ][TC_002_Login_Voi_Du_Lieu_Trong] Bấm vào nút 'Đăng nhập'
+2024-10-08 16:16:18,582 INFO  [Login     ][TC_002_Login_Voi_Du_Lieu_Trong] Verify message hiển thị tại trường SĐT
+2024-10-08 16:16:19,403 INFO  [Login     ][TC_002_Login_Voi_Du_Lieu_Trong] Nhập vào số điện thoại hợp lệ
+2024-10-08 16:16:19,414 INFO  [Login     ][TC_003_Login_Voi_SDT_Khong_Hop_Le] Nhập vào số điện thoại nhỏ hơn 9 ký tự
+2024-10-08 16:17:14,518 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Open app
+2024-10-08 16:17:15,536 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Tap vào nút Tiếp tục
+2024-10-08 16:17:16,407 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Tap vào nút Tiếp tục
+2024-10-08 16:17:17,437 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Tap vào nút Khám phá ngay
+2024-10-08 16:17:17,886 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Kiểm tra các thành phần trên màn
+2024-10-08 16:17:22,086 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Click vào nút đăng nhập bằng mật khẩu
+2024-10-08 16:17:24,665 INFO  [Login     ][TC_002_Login_Voi_Du_Lieu_Trong] Bấm vào nút 'Đăng nhập'
+2024-10-08 16:17:25,551 INFO  [Login     ][TC_002_Login_Voi_Du_Lieu_Trong] Verify message hiển thị tại trường SĐT
+2024-10-08 16:17:25,862 INFO  [Login     ][TC_002_Login_Voi_Du_Lieu_Trong] Nhập vào số điện thoại hợp lệ
+2024-10-08 16:17:25,867 INFO  [Login     ][TC_003_Login_Voi_SDT_Khong_Hop_Le] Nhập vào số điện thoại nhỏ hơn 9 ký tự
+2024-10-08 16:19:25,823 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Open app
+2024-10-08 16:19:25,830 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Tap vào nút Tiếp tục
+2024-10-08 16:19:25,830 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Tap vào nút Tiếp tục
+2024-10-08 16:19:25,831 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Tap vào nút Khám phá ngay
+2024-10-08 16:19:25,831 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Kiểm tra các thành phần trên màn
+2024-10-08 16:19:25,832 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Click vào nút đăng nhập bằng mật khẩu
+2024-10-08 16:19:25,833 INFO  [Login     ][TC_002_Login_Voi_Du_Lieu_Trong] Bấm vào nút 'Đăng nhập'
+2024-10-08 16:19:25,834 INFO  [Login     ][TC_002_Login_Voi_Du_Lieu_Trong] Verify message hiển thị tại trường SĐT
+2024-10-08 16:19:25,837 INFO  [Login     ][TC_003_Login_Voi_SDT_Khong_Hop_Le] Nhập vào số điện thoại nhỏ hơn 9 ký tự
+2024-10-08 16:19:49,568 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Open app
+2024-10-08 16:19:49,575 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Tap vào nút Tiếp tục
+2024-10-08 16:19:49,575 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Tap vào nút Tiếp tục
+2024-10-08 16:19:49,576 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Tap vào nút Khám phá ngay
+2024-10-08 16:19:49,576 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Kiểm tra các thành phần trên màn
+2024-10-08 16:19:49,577 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Click vào nút đăng nhập bằng mật khẩu
+2024-10-08 16:19:49,578 INFO  [Login     ][TC_002_Login_Voi_Du_Lieu_Trong] Bấm vào nút 'Đăng nhập'
+2024-10-08 16:19:49,579 INFO  [Login     ][TC_002_Login_Voi_Du_Lieu_Trong] Verify message hiển thị tại trường SĐT
+2024-10-08 16:19:49,583 INFO  [Login     ][TC_003_Login_Voi_SDT_Khong_Hop_Le] Nhập vào số điện thoại nhỏ hơn 9 ký tự
+2024-10-08 16:21:36,580 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Open app
+2024-10-08 16:21:37,532 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Tap vào nút Tiếp tục
+2024-10-08 16:21:38,403 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Tap vào nút Tiếp tục
+2024-10-08 16:21:39,283 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Tap vào nút Khám phá ngay
+2024-10-08 16:21:39,729 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Kiểm tra các thành phần trên màn
+2024-10-08 16:21:44,002 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Click vào nút đăng nhập bằng mật khẩu
+2024-10-08 16:21:46,707 INFO  [Login     ][TC_002_Login_Voi_Du_Lieu_Trong] Bấm vào nút 'Đăng nhập'
+2024-10-08 16:21:47,542 INFO  [Login     ][TC_002_Login_Voi_Du_Lieu_Trong] Verify message hiển thị tại trường SĐT
+2024-10-08 16:21:47,844 INFO  [Login     ][TC_002_Login_Voi_Du_Lieu_Trong] Nhập vào số điện thoại hợp lệ
+2024-10-08 16:21:47,850 INFO  [Login     ][TC_003_Login_Voi_SDT_Khong_Hop_Le] Nhập vào số điện thoại nhỏ hơn 9 ký tự
+2024-10-08 16:37:23,542 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Open app
+2024-10-08 16:37:24,620 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Tap vào nút Tiếp tục
+2024-10-08 16:37:25,473 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Tap vào nút Tiếp tục
+2024-10-08 16:37:26,362 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Tap vào nút Khám phá ngay
+2024-10-08 16:37:26,762 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Kiểm tra các thành phần trên màn
+2024-10-08 16:37:31,156 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Click vào nút đăng nhập bằng mật khẩu
+2024-10-08 16:37:33,419 INFO  [Login     ][TC_002_Login_Voi_Du_Lieu_Trong] Bấm vào nút 'Đăng nhập'
+2024-10-08 16:37:34,233 INFO  [Login     ][TC_002_Login_Voi_Du_Lieu_Trong] Verify message hiển thị tại trường SĐT
+2024-10-08 16:37:34,369 INFO  [Login     ][TC_002_Login_Voi_Du_Lieu_Trong] Nhập vào số điện thoại hợp lệ
+2024-10-08 16:37:34,373 INFO  [Login     ][TC_003_Login_Voi_SDT_Khong_Hop_Le] Nhập vào số điện thoại nhỏ hơn 9 ký tự

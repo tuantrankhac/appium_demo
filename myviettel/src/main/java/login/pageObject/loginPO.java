@@ -9,7 +9,7 @@ import io.appium.java_client.AppiumDriver;
 public class loginPO extends commonBase {
 
 	public loginPO(AppiumDriver dr) {
-		this.driver = dr;
+		driver = dr;
 	}
 
 	public void enterSDTToTextbox (String value) {

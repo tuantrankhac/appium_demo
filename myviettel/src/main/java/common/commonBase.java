@@ -3,7 +3,6 @@ package common;
 
 import static common.TestLogger.info;
 import static org.testng.Assert.assertFalse;
-
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.IOException;
@@ -1890,4 +1889,5 @@ public class commonBase {
 	private long longTimeout = Constant.LONG_TIMEOUT;
 	private WebDriverWait explicitWait;
 	private JavascriptExecutor jsExecutor;
+
 }

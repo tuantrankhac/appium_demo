@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2788dc26-7a39-44c2-8c6b-dcee16585bf2" name="Changes" comment="" />
+    <list default="true" id="2788dc26-7a39-44c2-8c6b-dcee16585bf2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,7 +26,7 @@
         <entry key="$PROJECT_DIR$/myviettel" value="master" />
       </map>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/myviettel" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
@@ -44,6 +47,7 @@
     "TestNG.TC_001_Login (2).executor": "Run",
     "TestNG.TC_001_Login.TS_001_Login_Voi_Thong_Tin_Khong_Hop_Le.executor": "Run",
     "TestNG.TC_001_Login.executor": "Run",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/Admin/Desktop/AT/appium_demo/myviettel/src/main/java/login",
     "node.js.detected.package.eslint": "true",
@@ -64,6 +68,7 @@
       <recent name="C:\Users\Admin\Desktop\AT\appium_demo\myviettel\src\main\java" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="login.pageObject" />
       <recent name="login.testSuite" />
     </key>
   </component>
@@ -219,7 +224,7 @@
       <workItem from="1728271044000" duration="923000" />
       <workItem from="1728272000343" duration="3402000" />
       <workItem from="1728284104071" duration="1453000" />
-      <workItem from="1728288350295" duration="24214000" />
+      <workItem from="1728288350295" duration="27063000" />
     </task>
     <servers />
   </component>
