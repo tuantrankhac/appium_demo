@@ -17561,3 +17561,593 @@
 2024-10-08 16:37:34,233 INFO  [Login     ][TC_002_Login_Voi_Du_Lieu_Trong] Verify message hiển thị tại trường SĐT
 2024-10-08 16:37:34,369 INFO  [Login     ][TC_002_Login_Voi_Du_Lieu_Trong] Nhập vào số điện thoại hợp lệ
 2024-10-08 16:37:34,373 INFO  [Login     ][TC_003_Login_Voi_SDT_Khong_Hop_Le] Nhập vào số điện thoại nhỏ hơn 9 ký tự
+2024-10-09 09:10:13,208 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Open app
+2024-10-09 09:10:13,217 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Tap vào nút Tiếp tục
+2024-10-09 09:10:13,217 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Tap vào nút Tiếp tục
+2024-10-09 09:10:13,218 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Tap vào nút Khám phá ngay
+2024-10-09 09:10:13,218 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Kiểm tra các thành phần trên màn
+2024-10-09 09:10:13,219 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Click vào nút đăng nhập bằng mật khẩu
+2024-10-09 09:10:13,221 INFO  [Login     ][TC_002_Login_Voi_Du_Lieu_Trong_Tab_Di_Dong] Bấm vào nút 'Đăng nhập'
+2024-10-09 09:10:13,222 INFO  [Login     ][TC_002_Login_Voi_Du_Lieu_Trong_Tab_Di_Dong] Verify message hiển thị tại trường SĐT
+2024-10-09 09:10:13,226 INFO  [Login     ][TC_003_Login_Voi_SDD_Khong_Hop_Le] Nhập vào số điện thoại nhỏ hơn 9 ký tự
+2024-10-09 09:10:13,228 INFO  [Login     ][TC_004_Login_Voi_Mat_Khau_Khong_Chinh_Xac] Nhập vào số điện thoại hợp lệ
+2024-10-09 09:11:39,856 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Open app
+2024-10-09 09:11:39,863 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Tap vào nút Tiếp tục
+2024-10-09 09:11:39,863 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Tap vào nút Tiếp tục
+2024-10-09 09:11:39,863 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Tap vào nút Khám phá ngay
+2024-10-09 09:11:39,864 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Kiểm tra các thành phần trên màn
+2024-10-09 09:11:39,865 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Click vào nút đăng nhập bằng mật khẩu
+2024-10-09 09:11:39,866 INFO  [Login     ][TC_002_Login_Voi_Du_Lieu_Trong_Tab_Di_Dong] Bấm vào nút 'Đăng nhập'
+2024-10-09 09:11:39,867 INFO  [Login     ][TC_002_Login_Voi_Du_Lieu_Trong_Tab_Di_Dong] Verify message hiển thị tại trường SĐT
+2024-10-09 09:11:39,873 INFO  [Login     ][TC_003_Login_Voi_SDD_Khong_Hop_Le] Nhập vào số điện thoại nhỏ hơn 9 ký tự
+2024-10-09 09:11:39,877 INFO  [Login     ][TC_004_Login_Voi_Mat_Khau_Khong_Chinh_Xac] Nhập vào số điện thoại hợp lệ
+2024-10-09 09:13:20,002 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Open app
+2024-10-09 09:13:20,009 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Tap vào nút Tiếp tục
+2024-10-09 09:13:20,010 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Tap vào nút Tiếp tục
+2024-10-09 09:13:20,011 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Tap vào nút Khám phá ngay
+2024-10-09 09:13:20,011 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Kiểm tra các thành phần trên màn
+2024-10-09 09:13:20,012 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Click vào nút đăng nhập bằng mật khẩu
+2024-10-09 09:13:20,014 INFO  [Login     ][TC_002_Login_Voi_Du_Lieu_Trong_Tab_Di_Dong] Bấm vào nút 'Đăng nhập'
+2024-10-09 09:13:20,014 INFO  [Login     ][TC_002_Login_Voi_Du_Lieu_Trong_Tab_Di_Dong] Verify message hiển thị tại trường SĐT
+2024-10-09 09:13:20,020 INFO  [Login     ][TC_003_Login_Voi_SDD_Khong_Hop_Le] Nhập vào số điện thoại nhỏ hơn 9 ký tự
+2024-10-09 09:13:20,023 INFO  [Login     ][TC_004_Login_Voi_Mat_Khau_Khong_Chinh_Xac] Nhập vào số điện thoại hợp lệ
+2024-10-09 09:15:31,470 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Open app
+2024-10-09 09:15:31,477 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Tap vào nút Tiếp tục
+2024-10-09 09:15:31,477 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Tap vào nút Tiếp tục
+2024-10-09 09:15:31,478 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Tap vào nút Khám phá ngay
+2024-10-09 09:15:31,478 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Kiểm tra các thành phần trên màn
+2024-10-09 09:15:31,479 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Click vào nút đăng nhập bằng mật khẩu
+2024-10-09 09:15:31,481 INFO  [Login     ][TC_002_Login_Voi_Du_Lieu_Trong_Tab_Di_Dong] Bấm vào nút 'Đăng nhập'
+2024-10-09 09:15:31,482 INFO  [Login     ][TC_002_Login_Voi_Du_Lieu_Trong_Tab_Di_Dong] Verify message hiển thị tại trường SĐT
+2024-10-09 09:15:31,487 INFO  [Login     ][TC_003_Login_Voi_SDD_Khong_Hop_Le] Nhập vào số điện thoại nhỏ hơn 9 ký tự
+2024-10-09 09:15:31,490 INFO  [Login     ][TC_004_Login_Voi_Mat_Khau_Khong_Chinh_Xac] Nhập vào số điện thoại hợp lệ
+2024-10-09 09:17:15,606 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Open app
+2024-10-09 09:17:15,613 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Tap vào nút Tiếp tục
+2024-10-09 09:17:15,614 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Tap vào nút Tiếp tục
+2024-10-09 09:17:15,615 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Tap vào nút Khám phá ngay
+2024-10-09 09:17:15,616 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Kiểm tra các thành phần trên màn
+2024-10-09 09:17:15,616 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Click vào nút đăng nhập bằng mật khẩu
+2024-10-09 09:18:22,162 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Open app
+2024-10-09 09:18:22,170 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Tap vào nút Tiếp tục
+2024-10-09 09:18:22,171 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Tap vào nút Tiếp tục
+2024-10-09 09:18:22,171 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Tap vào nút Khám phá ngay
+2024-10-09 09:18:22,172 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Kiểm tra các thành phần trên màn
+2024-10-09 09:18:22,173 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Click vào nút đăng nhập bằng mật khẩu
+2024-10-09 09:21:29,965 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Open app
+2024-10-09 09:21:29,972 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Tap vào nút Tiếp tục
+2024-10-09 09:21:29,973 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Tap vào nút Tiếp tục
+2024-10-09 09:21:29,974 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Tap vào nút Khám phá ngay
+2024-10-09 09:21:29,974 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Kiểm tra các thành phần trên màn
+2024-10-09 09:21:29,976 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Click vào nút đăng nhập bằng mật khẩu
+2024-10-09 09:22:08,733 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Open app
+2024-10-09 09:22:09,735 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Tap vào nút Tiếp tục
+2024-10-09 09:22:10,601 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Tap vào nút Tiếp tục
+2024-10-09 09:22:11,452 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Tap vào nút Khám phá ngay
+2024-10-09 09:22:11,687 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Kiểm tra các thành phần trên màn
+2024-10-09 09:22:15,824 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Click vào nút đăng nhập bằng mật khẩu
+2024-10-09 09:26:13,780 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Open app
+2024-10-09 09:26:14,761 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Tap vào nút Tiếp tục
+2024-10-09 09:26:15,626 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Tap vào nút Tiếp tục
+2024-10-09 09:26:16,526 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Tap vào nút Khám phá ngay
+2024-10-09 09:26:16,863 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Kiểm tra các thành phần trên màn
+2024-10-09 09:26:20,858 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Click vào nút đăng nhập bằng mật khẩu
+2024-10-09 09:26:23,199 INFO  [Login     ][TC_002_Login_Voi_Du_Lieu_Trong_Tab_Di_Dong] Bấm vào nút 'Đăng nhập'
+2024-10-09 09:26:23,438 INFO  [Login     ][TC_002_Login_Voi_Du_Lieu_Trong_Tab_Di_Dong] Verify message hiển thị tại trường SĐT
+2024-10-09 09:26:24,194 INFO  [Login     ][TC_002_Login_Voi_Du_Lieu_Trong_Tab_Di_Dong] Nhập vào số điện thoại hợp lệ
+2024-10-09 09:26:24,200 INFO  [Login     ][TC_003_Login_Voi_SDD_Khong_Hop_Le] Nhập vào số điện thoại nhỏ hơn 9 ký tự
+2024-10-09 09:26:24,201 INFO  [Login     ][TC_004_Login_Voi_Mat_Khau_Khong_Chinh_Xac] Nhập vào số điện thoại hợp lệ
+2024-10-09 09:34:30,973 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Open app
+2024-10-09 09:34:31,976 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Tap vào nút Tiếp tục
+2024-10-09 09:34:32,860 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Tap vào nút Tiếp tục
+2024-10-09 09:34:33,707 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Tap vào nút Khám phá ngay
+2024-10-09 09:34:35,071 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Kiểm tra các thành phần trên màn
+2024-10-09 09:34:38,270 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Click vào nút đăng nhập bằng mật khẩu
+2024-10-09 09:34:40,472 INFO  [Login     ][TC_002_Login_Voi_Du_Lieu_Trong_Tab_Di_Dong] Bấm vào nút 'Đăng nhập'
+2024-10-09 09:34:41,257 INFO  [Login     ][TC_002_Login_Voi_Du_Lieu_Trong_Tab_Di_Dong] Verify message hiển thị tại trường SĐT
+2024-10-09 09:34:41,408 INFO  [Login     ][TC_002_Login_Voi_Du_Lieu_Trong_Tab_Di_Dong] Nhập vào số điện thoại hợp lệ
+2024-10-09 09:34:43,065 INFO  [Login     ][TC_002_Login_Voi_Du_Lieu_Trong_Tab_Di_Dong] Bấm vào nút 'Đăng nhập'
+2024-10-09 09:34:43,956 INFO  [Login     ][TC_002_Login_Voi_Du_Lieu_Trong_Tab_Di_Dong] Verify message hiển thị tại trường Mật khẩu
+2024-10-09 09:34:44,734 INFO  [Login     ][TC_003_Login_Voi_SDD_Khong_Hop_Le] Nhập vào số điện thoại nhỏ hơn 9 ký tự
+2024-10-09 09:34:46,235 INFO  [Login     ][TC_003_Login_Voi_SDD_Khong_Hop_Le] Bấm vào nút 'Đăng nhập'
+2024-10-09 09:34:46,924 INFO  [Login     ][TC_003_Login_Voi_SDD_Khong_Hop_Le] Verify message hiển thị tại trường SĐT
+2024-10-09 09:34:47,754 INFO  [Login     ][TC_003_Login_Voi_SDD_Khong_Hop_Le] Nhập vào số điện thoại lớn hơn 12 ký tự
+2024-10-09 09:34:49,590 INFO  [Login     ][TC_003_Login_Voi_SDD_Khong_Hop_Le] Bấm vào nút 'Đăng nhập'
+2024-10-09 09:34:51,042 INFO  [Login     ][TC_003_Login_Voi_SDD_Khong_Hop_Le] Verify message hiển thị tại trường SĐT
+2024-10-09 09:34:51,044 INFO  [Login     ][TC_004_Login_Voi_Mat_Khau_Khong_Chinh_Xac] Nhập vào số điện thoại hợp lệ
+2024-10-09 09:34:52,773 INFO  [Login     ][TC_004_Login_Voi_Mat_Khau_Khong_Chinh_Xac] Nhập vào mật khẩu không chính xác
+2024-10-09 09:34:54,785 INFO  [Login     ][TC_004_Login_Voi_Mat_Khau_Khong_Chinh_Xac] Bấm vào nút 'Đăng nhập'
+2024-10-09 09:34:55,666 INFO  [Login     ][TC_004_Login_Voi_Mat_Khau_Khong_Chinh_Xac] Verify message hiển thị
+2024-10-09 09:34:55,686 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.WebDriverException
+2024-10-09 09:34:55,687 INFO  [commonBase][checkCycling] Lap lai lan thu 0
+2024-10-09 09:34:56,227 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.WebDriverException
+2024-10-09 09:34:56,229 INFO  [commonBase][checkCycling] Lap lai lan thu 1
+2024-10-09 09:34:56,739 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.WebDriverException
+2024-10-09 09:34:56,739 INFO  [commonBase][checkCycling] Lap lai lan thu 2
+2024-10-09 09:34:57,253 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.WebDriverException
+2024-10-09 09:34:57,253 INFO  [commonBase][checkCycling] Lap lai lan thu 3
+2024-10-09 09:34:57,765 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.WebDriverException
+2024-10-09 09:34:57,765 INFO  [commonBase][checkCycling] Lap lai lan thu 4
+2024-10-09 09:34:58,299 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.WebDriverException
+2024-10-09 09:34:58,300 INFO  [commonBase][checkCycling] Lap lai lan thu 5
+2024-10-09 09:34:58,830 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.WebDriverException
+2024-10-09 09:34:58,830 INFO  [commonBase][checkCycling] Lap lai lan thu 6
+2024-10-09 09:34:59,353 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.WebDriverException
+2024-10-09 09:34:59,354 INFO  [commonBase][checkCycling] Lap lai lan thu 7
+2024-10-09 09:34:59,889 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.WebDriverException
+2024-10-09 09:34:59,890 INFO  [commonBase][checkCycling] Lap lai lan thu 8
+2024-10-09 09:35:00,402 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.WebDriverException
+2024-10-09 09:35:00,402 INFO  [commonBase][checkCycling] Lap lai lan thu 9
+2024-10-09 09:35:00,911 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.WebDriverException
+2024-10-09 09:35:00,911 INFO  [commonBase][checkCycling] Lap lai lan thu 10
+2024-10-09 09:35:01,427 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.WebDriverException
+2024-10-09 09:35:01,427 INFO  [commonBase][checkCycling] Lap lai lan thu 11
+2024-10-09 09:35:01,946 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.WebDriverException
+2024-10-09 09:35:01,947 INFO  [commonBase][checkCycling] Lap lai lan thu 12
+2024-10-09 09:35:02,460 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.WebDriverException
+2024-10-09 09:35:02,460 INFO  [commonBase][checkCycling] Lap lai lan thu 13
+2024-10-09 09:35:02,971 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.WebDriverException
+2024-10-09 09:35:02,972 INFO  [commonBase][checkCycling] Lap lai lan thu 14
+2024-10-09 09:35:03,483 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.WebDriverException
+2024-10-09 09:35:03,483 INFO  [commonBase][checkCycling] Lap lai lan thu 15
+2024-10-09 09:35:04,021 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.WebDriverException
+2024-10-09 09:35:04,022 INFO  [commonBase][checkCycling] Lap lai lan thu 16
+2024-10-09 09:35:04,532 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.WebDriverException
+2024-10-09 09:35:04,533 INFO  [commonBase][checkCycling] Lap lai lan thu 17
+2024-10-09 09:35:05,043 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.WebDriverException
+2024-10-09 09:35:05,043 INFO  [commonBase][checkCycling] Lap lai lan thu 18
+2024-10-09 09:35:05,553 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.WebDriverException
+2024-10-09 09:35:05,553 INFO  [commonBase][checkCycling] Lap lai lan thu 19
+2024-10-09 09:35:06,062 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.WebDriverException
+2024-10-09 09:35:06,062 INFO  [commonBase][checkCycling] Lap lai lan thu 20
+2024-10-09 09:35:06,574 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.WebDriverException
+2024-10-09 09:35:06,574 INFO  [commonBase][checkCycling] Lap lai lan thu 21
+2024-10-09 09:35:07,110 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.WebDriverException
+2024-10-09 09:35:07,111 INFO  [commonBase][checkCycling] Lap lai lan thu 22
+2024-10-09 11:07:37,698 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Open app
+2024-10-09 11:07:38,285 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Tap vào nút Tiếp tục
+2024-10-09 11:07:39,144 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Tap vào nút Tiếp tục
+2024-10-09 11:07:39,987 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Tap vào nút Khám phá ngay
+2024-10-09 11:07:40,207 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Kiểm tra các thành phần trên màn
+2024-10-09 11:07:44,315 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Click vào nút đăng nhập bằng mật khẩu
+2024-10-09 11:07:46,428 INFO  [Login     ][TC_002_Login_Voi_Du_Lieu_Trong_Tab_Di_Dong] Bấm vào nút 'Đăng nhập'
+2024-10-09 11:07:47,474 INFO  [Login     ][TC_002_Login_Voi_Du_Lieu_Trong_Tab_Di_Dong] Verify message hiển thị tại trường SĐT
+2024-10-09 11:07:47,701 INFO  [Login     ][TC_003_Login_Voi_SDD_Khong_Hop_Le] Nhập vào số điện thoại nhỏ hơn 9 ký tự
+2024-10-09 11:07:49,349 INFO  [Login     ][TC_003_Login_Voi_SDD_Khong_Hop_Le] Bấm vào nút 'Đăng nhập'
+2024-10-09 11:07:50,969 INFO  [Login     ][TC_003_Login_Voi_SDD_Khong_Hop_Le] Verify message hiển thị tại trường SĐT
+2024-10-09 11:07:51,177 INFO  [Login     ][TC_003_Login_Voi_SDD_Khong_Hop_Le] Nhập vào số điện thoại lớn hơn 12 ký tự
+2024-10-09 11:07:52,950 INFO  [Login     ][TC_003_Login_Voi_SDD_Khong_Hop_Le] Bấm vào nút 'Đăng nhập'
+2024-10-09 11:07:54,702 INFO  [Login     ][TC_003_Login_Voi_SDD_Khong_Hop_Le] Verify message hiển thị tại trường SĐT
+2024-10-09 11:07:54,704 INFO  [Login     ][TC_004_Login_Voi_Mat_Khau_Khong_Chinh_Xac] Nhập vào số điện thoại hợp lệ
+2024-10-09 11:07:56,415 INFO  [Login     ][TC_004_Login_Voi_Mat_Khau_Khong_Chinh_Xac] Nhập vào mật khẩu không chính xác
+2024-10-09 11:07:58,410 INFO  [Login     ][TC_004_Login_Voi_Mat_Khau_Khong_Chinh_Xac] Bấm vào nút 'Đăng nhập'
+2024-10-09 11:07:59,470 INFO  [Login     ][TC_004_Login_Voi_Mat_Khau_Khong_Chinh_Xac] Verify message hiển thị
+2024-10-09 11:08:00,709 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.StaleElementReferenceException
+2024-10-09 11:08:00,710 INFO  [commonBase][checkCycling] Lap lai lan thu 0
+2024-10-09 11:08:01,403 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.StaleElementReferenceException
+2024-10-09 11:08:01,403 INFO  [commonBase][checkCycling] Lap lai lan thu 1
+2024-10-09 11:08:02,109 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.StaleElementReferenceException
+2024-10-09 11:08:02,110 INFO  [commonBase][checkCycling] Lap lai lan thu 2
+2024-10-09 11:08:02,846 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.StaleElementReferenceException
+2024-10-09 11:08:02,846 INFO  [commonBase][checkCycling] Lap lai lan thu 3
+2024-10-09 11:08:03,540 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.StaleElementReferenceException
+2024-10-09 11:08:03,540 INFO  [commonBase][checkCycling] Lap lai lan thu 4
+2024-10-09 11:08:04,176 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:08:04,177 INFO  [commonBase][checkCycling] Lap lai lan thu 5
+2024-10-09 11:08:04,782 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:08:04,783 INFO  [commonBase][checkCycling] Lap lai lan thu 6
+2024-10-09 11:08:05,427 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:08:05,428 INFO  [commonBase][checkCycling] Lap lai lan thu 7
+2024-10-09 11:08:06,131 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:08:06,133 INFO  [commonBase][checkCycling] Lap lai lan thu 8
+2024-10-09 11:08:06,753 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:08:06,753 INFO  [commonBase][checkCycling] Lap lai lan thu 9
+2024-10-09 11:08:07,704 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:08:07,704 INFO  [commonBase][checkCycling] Lap lai lan thu 10
+2024-10-09 11:08:08,408 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:08:08,408 INFO  [commonBase][checkCycling] Lap lai lan thu 11
+2024-10-09 11:08:09,016 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:08:09,016 INFO  [commonBase][checkCycling] Lap lai lan thu 12
+2024-10-09 11:08:09,702 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:08:09,703 INFO  [commonBase][checkCycling] Lap lai lan thu 13
+2024-10-09 11:08:10,398 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:08:10,399 INFO  [commonBase][checkCycling] Lap lai lan thu 14
+2024-10-09 11:08:11,110 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:08:11,110 INFO  [commonBase][checkCycling] Lap lai lan thu 15
+2024-10-09 11:08:11,809 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:08:11,809 INFO  [commonBase][checkCycling] Lap lai lan thu 16
+2024-10-09 11:08:12,486 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:08:12,486 INFO  [commonBase][checkCycling] Lap lai lan thu 17
+2024-10-09 11:08:13,221 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:08:13,223 INFO  [commonBase][checkCycling] Lap lai lan thu 18
+2024-10-09 11:08:13,905 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:08:13,905 INFO  [commonBase][checkCycling] Lap lai lan thu 19
+2024-10-09 11:08:14,584 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:08:14,585 INFO  [commonBase][checkCycling] Lap lai lan thu 20
+2024-10-09 11:08:15,297 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:08:15,298 INFO  [commonBase][checkCycling] Lap lai lan thu 21
+2024-10-09 11:08:16,037 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:08:16,038 INFO  [commonBase][checkCycling] Lap lai lan thu 22
+2024-10-09 11:08:16,790 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:08:16,790 INFO  [commonBase][checkCycling] Lap lai lan thu 23
+2024-10-09 11:08:17,551 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:08:17,552 INFO  [commonBase][checkCycling] Lap lai lan thu 24
+2024-10-09 11:08:18,274 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:08:18,275 INFO  [commonBase][checkCycling] Lap lai lan thu 25
+2024-10-09 11:08:19,014 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:08:19,014 INFO  [commonBase][checkCycling] Lap lai lan thu 26
+2024-10-09 11:08:19,750 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:08:19,751 INFO  [commonBase][checkCycling] Lap lai lan thu 27
+2024-10-09 11:08:20,517 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:08:20,517 INFO  [commonBase][checkCycling] Lap lai lan thu 28
+2024-10-09 11:08:21,158 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:08:21,158 INFO  [commonBase][checkCycling] Lap lai lan thu 29
+2024-10-09 11:08:21,898 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:08:21,900 INFO  [commonBase][checkCycling] Lap lai lan thu 30
+2024-10-09 11:08:22,641 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:08:22,642 INFO  [commonBase][checkCycling] Lap lai lan thu 31
+2024-10-09 11:08:23,392 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:08:23,393 INFO  [commonBase][checkCycling] Lap lai lan thu 32
+2024-10-09 11:08:24,123 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:08:24,124 INFO  [commonBase][checkCycling] Lap lai lan thu 33
+2024-10-09 11:08:24,860 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:08:24,862 INFO  [commonBase][checkCycling] Lap lai lan thu 34
+2024-10-09 11:08:25,596 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:08:25,597 INFO  [commonBase][checkCycling] Lap lai lan thu 35
+2024-10-09 11:08:26,282 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:08:26,283 INFO  [commonBase][checkCycling] Lap lai lan thu 36
+2024-10-09 11:08:27,028 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:08:27,028 INFO  [commonBase][checkCycling] Lap lai lan thu 37
+2024-10-09 11:08:27,770 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:08:27,770 INFO  [commonBase][checkCycling] Lap lai lan thu 38
+2024-10-09 11:08:28,498 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:08:28,498 INFO  [commonBase][checkCycling] Lap lai lan thu 39
+2024-10-09 11:08:29,252 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:08:29,253 INFO  [commonBase][checkCycling] Lap lai lan thu 40
+2024-10-09 11:08:30,006 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:08:30,006 INFO  [commonBase][checkCycling] Lap lai lan thu 41
+2024-10-09 11:08:30,705 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:08:30,705 INFO  [commonBase][checkCycling] Lap lai lan thu 42
+2024-10-09 11:08:31,447 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:08:31,448 INFO  [commonBase][checkCycling] Lap lai lan thu 43
+2024-10-09 11:08:32,086 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:08:32,088 INFO  [commonBase][checkCycling] Lap lai lan thu 44
+2024-10-09 11:08:32,801 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:08:32,802 INFO  [commonBase][checkCycling] Lap lai lan thu 45
+2024-10-09 11:08:33,542 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:08:33,543 INFO  [commonBase][checkCycling] Lap lai lan thu 46
+2024-10-09 11:08:34,263 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:08:34,263 INFO  [commonBase][checkCycling] Lap lai lan thu 47
+2024-10-09 11:08:34,941 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:08:34,942 INFO  [commonBase][checkCycling] Lap lai lan thu 48
+2024-10-09 11:08:35,630 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:08:35,630 INFO  [commonBase][checkCycling] Lap lai lan thu 49
+2024-10-09 11:08:36,385 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:08:36,386 INFO  [commonBase][checkCycling] Lap lai lan thu 50
+2024-10-09 11:08:37,125 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:08:37,125 INFO  [commonBase][checkCycling] Lap lai lan thu 51
+2024-10-09 11:08:37,875 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:08:37,876 INFO  [commonBase][checkCycling] Lap lai lan thu 52
+2024-10-09 11:08:38,604 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:08:38,604 INFO  [commonBase][checkCycling] Lap lai lan thu 53
+2024-10-09 11:08:39,308 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:08:39,309 INFO  [commonBase][checkCycling] Lap lai lan thu 54
+2024-10-09 11:08:40,068 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:08:40,069 INFO  [commonBase][checkCycling] Lap lai lan thu 55
+2024-10-09 11:08:40,834 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:08:40,834 INFO  [commonBase][checkCycling] Lap lai lan thu 56
+2024-10-09 11:08:41,526 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:08:41,528 INFO  [commonBase][checkCycling] Lap lai lan thu 57
+2024-10-09 11:08:42,306 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:08:42,308 INFO  [commonBase][checkCycling] Lap lai lan thu 58
+2024-10-09 11:08:42,963 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:08:42,964 INFO  [commonBase][checkCycling] Lap lai lan thu 59
+2024-10-09 11:08:43,733 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:08:43,734 INFO  [commonBase][checkCycling] Lap lai lan thu 60
+2024-10-09 11:08:44,483 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:08:44,483 INFO  [commonBase][checkCycling] Lap lai lan thu 61
+2024-10-09 11:08:45,276 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:08:45,276 INFO  [commonBase][checkCycling] Lap lai lan thu 62
+2024-10-09 11:08:45,974 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:08:45,974 INFO  [commonBase][checkCycling] Lap lai lan thu 63
+2024-10-09 11:08:46,581 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:08:46,582 INFO  [commonBase][checkCycling] Lap lai lan thu 64
+2024-10-09 11:08:47,262 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:08:47,262 INFO  [commonBase][checkCycling] Lap lai lan thu 65
+2024-10-09 11:08:48,016 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:08:48,017 INFO  [commonBase][checkCycling] Lap lai lan thu 66
+2024-10-09 11:08:48,704 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:08:48,705 INFO  [commonBase][checkCycling] Lap lai lan thu 67
+2024-10-09 11:08:49,426 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:08:49,426 INFO  [commonBase][checkCycling] Lap lai lan thu 68
+2024-10-09 11:08:50,180 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:08:50,180 INFO  [commonBase][checkCycling] Lap lai lan thu 69
+2024-10-09 11:08:50,929 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:08:50,929 INFO  [commonBase][checkCycling] Lap lai lan thu 70
+2024-10-09 11:08:51,649 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:08:51,650 INFO  [commonBase][checkCycling] Lap lai lan thu 71
+2024-10-09 11:08:52,328 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:08:52,329 INFO  [commonBase][checkCycling] Lap lai lan thu 72
+2024-10-09 11:08:53,054 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:08:53,054 INFO  [commonBase][checkCycling] Lap lai lan thu 73
+2024-10-09 11:08:53,780 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:08:53,781 INFO  [commonBase][checkCycling] Lap lai lan thu 74
+2024-10-09 11:08:54,497 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:08:54,498 INFO  [commonBase][checkCycling] Lap lai lan thu 75
+2024-10-09 11:08:55,265 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:08:55,265 INFO  [commonBase][checkCycling] Lap lai lan thu 76
+2024-10-09 11:08:56,002 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:08:56,003 INFO  [commonBase][checkCycling] Lap lai lan thu 77
+2024-10-09 11:08:56,762 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:08:56,762 INFO  [commonBase][checkCycling] Lap lai lan thu 78
+2024-10-09 11:08:57,474 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:08:57,474 INFO  [commonBase][checkCycling] Lap lai lan thu 79
+2024-10-09 11:08:58,181 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:08:58,182 INFO  [commonBase][checkCycling] Lap lai lan thu 80
+2024-10-09 11:08:58,899 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:08:58,903 INFO  [Login     ][TC_005_Login_Voi_Du_Lieu_Trong_Tab_Co_Dinh] Mở tab đăng nhập với Internet/TV/PSTN
+2024-10-09 11:09:04,183 INFO  [Login     ][TC_005_Login_Voi_Du_Lieu_Trong_Tab_Co_Dinh] Bấm vào nút 'Đăng nhập'
+2024-10-09 11:09:04,855 INFO  [Login     ][TC_005_Login_Voi_Du_Lieu_Trong_Tab_Co_Dinh] Kiểm tra message hiển thị
+2024-10-09 11:09:04,928 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:09:04,929 INFO  [commonBase][checkCycling] Lap lai lan thu 0
+2024-10-09 11:09:05,899 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:09:05,899 INFO  [commonBase][checkCycling] Lap lai lan thu 1
+2024-10-09 11:09:06,555 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:09:06,556 INFO  [commonBase][checkCycling] Lap lai lan thu 2
+2024-10-09 11:09:07,666 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:09:07,666 INFO  [commonBase][checkCycling] Lap lai lan thu 3
+2024-10-09 11:09:08,323 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:09:08,324 INFO  [commonBase][checkCycling] Lap lai lan thu 4
+2024-10-09 11:09:08,926 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:09:08,926 INFO  [commonBase][checkCycling] Lap lai lan thu 5
+2024-10-09 11:09:09,584 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:09:09,584 INFO  [commonBase][checkCycling] Lap lai lan thu 6
+2024-10-09 11:09:10,249 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:09:10,250 INFO  [commonBase][checkCycling] Lap lai lan thu 7
+2024-10-09 11:09:10,899 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:09:10,899 INFO  [commonBase][checkCycling] Lap lai lan thu 8
+2024-10-09 11:09:11,500 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:09:11,500 INFO  [commonBase][checkCycling] Lap lai lan thu 9
+2024-10-09 11:09:12,173 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:09:12,173 INFO  [commonBase][checkCycling] Lap lai lan thu 10
+2024-10-09 11:09:12,855 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:09:12,855 INFO  [commonBase][checkCycling] Lap lai lan thu 11
+2024-10-09 11:09:13,553 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:09:13,553 INFO  [commonBase][checkCycling] Lap lai lan thu 12
+2024-10-09 11:09:14,271 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:09:14,271 INFO  [commonBase][checkCycling] Lap lai lan thu 13
+2024-10-09 11:09:14,957 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:09:14,958 INFO  [commonBase][checkCycling] Lap lai lan thu 14
+2024-10-09 11:09:15,693 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:09:15,694 INFO  [commonBase][checkCycling] Lap lai lan thu 15
+2024-10-09 11:09:16,369 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:09:16,370 INFO  [commonBase][checkCycling] Lap lai lan thu 16
+2024-10-09 11:09:17,091 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:09:17,092 INFO  [commonBase][checkCycling] Lap lai lan thu 17
+2024-10-09 11:09:17,789 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:09:17,789 INFO  [commonBase][checkCycling] Lap lai lan thu 18
+2024-10-09 11:09:18,449 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:09:18,449 INFO  [commonBase][checkCycling] Lap lai lan thu 19
+2024-10-09 11:10:58,512 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Open app
+2024-10-09 11:10:59,125 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Tap vào nút Tiếp tục
+2024-10-09 11:10:59,980 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Tap vào nút Tiếp tục
+2024-10-09 11:11:00,878 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Tap vào nút Khám phá ngay
+2024-10-09 11:11:01,203 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Kiểm tra các thành phần trên màn
+2024-10-09 11:11:05,474 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Click vào nút đăng nhập bằng mật khẩu
+2024-10-09 11:11:08,149 INFO  [Login     ][TC_002_Login_Voi_Du_Lieu_Trong_Tab_Di_Dong] Bấm vào nút 'Đăng nhập'
+2024-10-09 11:11:09,079 INFO  [Login     ][TC_002_Login_Voi_Du_Lieu_Trong_Tab_Di_Dong] Verify message hiển thị tại trường SĐT
+2024-10-09 11:11:09,274 INFO  [Login     ][TC_002_Login_Voi_Du_Lieu_Trong_Tab_Di_Dong] Nhập vào số điện thoại hợp lệ
+2024-10-09 11:11:10,940 INFO  [Login     ][TC_002_Login_Voi_Du_Lieu_Trong_Tab_Di_Dong] Bấm vào nút 'Đăng nhập'
+2024-10-09 11:11:12,663 INFO  [Login     ][TC_002_Login_Voi_Du_Lieu_Trong_Tab_Di_Dong] Verify message hiển thị tại trường Mật khẩu
+2024-10-09 11:11:12,881 INFO  [Login     ][TC_003_Login_Voi_SDD_Khong_Hop_Le] Nhập vào số điện thoại nhỏ hơn 9 ký tự
+2024-10-09 11:11:14,371 INFO  [Login     ][TC_003_Login_Voi_SDD_Khong_Hop_Le] Bấm vào nút 'Đăng nhập'
+2024-10-09 11:11:15,289 INFO  [Login     ][TC_003_Login_Voi_SDD_Khong_Hop_Le] Verify message hiển thị tại trường SĐT
+2024-10-09 11:11:16,081 INFO  [Login     ][TC_003_Login_Voi_SDD_Khong_Hop_Le] Nhập vào số điện thoại lớn hơn 12 ký tự
+2024-10-09 11:11:17,755 INFO  [Login     ][TC_003_Login_Voi_SDD_Khong_Hop_Le] Bấm vào nút 'Đăng nhập'
+2024-10-09 11:11:19,333 INFO  [Login     ][TC_003_Login_Voi_SDD_Khong_Hop_Le] Verify message hiển thị tại trường SĐT
+2024-10-09 11:11:19,334 INFO  [Login     ][TC_004_Login_Voi_Mat_Khau_Khong_Chinh_Xac] Nhập vào số điện thoại hợp lệ
+2024-10-09 11:11:21,029 INFO  [Login     ][TC_004_Login_Voi_Mat_Khau_Khong_Chinh_Xac] Nhập vào mật khẩu không chính xác
+2024-10-09 11:11:22,919 INFO  [Login     ][TC_004_Login_Voi_Mat_Khau_Khong_Chinh_Xac] Bấm vào nút 'Đăng nhập'
+2024-10-09 11:11:24,024 INFO  [Login     ][TC_004_Login_Voi_Mat_Khau_Khong_Chinh_Xac] Verify message hiển thị
+2024-10-09 11:11:25,004 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.StaleElementReferenceException
+2024-10-09 11:11:25,006 INFO  [commonBase][checkCycling] Lap lai lan thu 0
+2024-10-09 11:11:25,712 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.StaleElementReferenceException
+2024-10-09 11:11:25,712 INFO  [commonBase][checkCycling] Lap lai lan thu 1
+2024-10-09 11:11:26,410 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.StaleElementReferenceException
+2024-10-09 11:11:26,411 INFO  [commonBase][checkCycling] Lap lai lan thu 2
+2024-10-09 11:11:27,079 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.StaleElementReferenceException
+2024-10-09 11:11:27,079 INFO  [commonBase][checkCycling] Lap lai lan thu 3
+2024-10-09 11:11:27,796 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.StaleElementReferenceException
+2024-10-09 11:11:27,796 INFO  [commonBase][checkCycling] Lap lai lan thu 4
+2024-10-09 11:11:28,432 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:11:28,433 INFO  [commonBase][checkCycling] Lap lai lan thu 5
+2024-10-09 11:11:29,081 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:11:29,081 INFO  [commonBase][checkCycling] Lap lai lan thu 6
+2024-10-09 11:11:29,770 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:11:29,771 INFO  [commonBase][checkCycling] Lap lai lan thu 7
+2024-10-09 11:11:30,444 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:11:30,444 INFO  [commonBase][checkCycling] Lap lai lan thu 8
+2024-10-09 11:11:31,120 INFO  [commonBase][checkCycling] Co exception xay ra: org.openqa.selenium.NoSuchElementException
+2024-10-09 11:11:31,121 INFO  [commonBase][checkCycling] Lap lai lan thu 9
+2024-10-09 13:37:59,958 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Open app
+2024-10-09 13:38:00,554 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Tap vào nút Tiếp tục
+2024-10-09 13:38:01,413 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Tap vào nút Tiếp tục
+2024-10-09 13:38:02,266 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Tap vào nút Khám phá ngay
+2024-10-09 13:38:02,480 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Kiểm tra các thành phần trên màn
+2024-10-09 13:38:07,477 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Click vào nút đăng nhập bằng mật khẩu
+2024-10-09 13:38:09,372 INFO  [Login     ][TC_002_Login_Voi_Du_Lieu_Trong_Tab_Di_Dong] Bấm vào nút 'Đăng nhập'
+2024-10-09 13:38:10,331 INFO  [Login     ][TC_002_Login_Voi_Du_Lieu_Trong_Tab_Di_Dong] Verify message hiển thị tại trường SĐT
+2024-10-09 13:38:10,483 INFO  [Login     ][TC_002_Login_Voi_Du_Lieu_Trong_Tab_Di_Dong] Nhập vào số điện thoại hợp lệ
+2024-10-09 13:38:12,018 INFO  [Login     ][TC_002_Login_Voi_Du_Lieu_Trong_Tab_Di_Dong] Bấm vào nút 'Đăng nhập'
+2024-10-09 13:38:12,886 INFO  [Login     ][TC_002_Login_Voi_Du_Lieu_Trong_Tab_Di_Dong] Verify message hiển thị tại trường Mật khẩu
+2024-10-09 13:38:13,629 INFO  [Login     ][TC_003_Login_Voi_SDD_Khong_Hop_Le] Nhập vào số điện thoại nhỏ hơn 9 ký tự
+2024-10-09 13:38:15,046 INFO  [Login     ][TC_003_Login_Voi_SDD_Khong_Hop_Le] Bấm vào nút 'Đăng nhập'
+2024-10-09 13:38:15,849 INFO  [Login     ][TC_003_Login_Voi_SDD_Khong_Hop_Le] Verify message hiển thị tại trường SĐT
+2024-10-09 13:38:16,609 INFO  [Login     ][TC_003_Login_Voi_SDD_Khong_Hop_Le] Nhập vào số điện thoại lớn hơn 12 ký tự
+2024-10-09 13:38:18,203 INFO  [Login     ][TC_003_Login_Voi_SDD_Khong_Hop_Le] Bấm vào nút 'Đăng nhập'
+2024-10-09 13:38:19,193 INFO  [Login     ][TC_003_Login_Voi_SDD_Khong_Hop_Le] Verify message hiển thị tại trường SĐT
+2024-10-09 13:38:19,194 INFO  [Login     ][TC_004_Login_Voi_Mat_Khau_Khong_Chinh_Xac] Nhập vào số điện thoại hợp lệ
+2024-10-09 13:38:21,368 INFO  [Login     ][TC_004_Login_Voi_Mat_Khau_Khong_Chinh_Xac] Nhập vào mật khẩu không chính xác
+2024-10-09 13:38:23,261 INFO  [Login     ][TC_004_Login_Voi_Mat_Khau_Khong_Chinh_Xac] Bấm vào nút 'Đăng nhập'
+2024-10-09 13:38:24,155 INFO  [Login     ][TC_004_Login_Voi_Mat_Khau_Khong_Chinh_Xac] Verify message hiển thị
+2024-10-09 13:38:24,159 INFO  [Login     ][TC_005_Login_Voi_Du_Lieu_Trong_Tab_Co_Dinh] Mở tab đăng nhập với Internet/TV/PSTN
+2024-10-09 13:38:29,717 INFO  [Login     ][TC_005_Login_Voi_Du_Lieu_Trong_Tab_Co_Dinh] Bấm vào nút 'Đăng nhập'
+2024-10-09 13:38:30,008 INFO  [Login     ][TC_005_Login_Voi_Du_Lieu_Trong_Tab_Co_Dinh] Kiểm tra message hiển thị
+2024-10-09 13:38:30,010 INFO  [Login     ][TC_006_Login_So_Co_Dinh_Khong_Hop_Le] Nhập vào mật khẩu không hợp lệ
+2024-10-09 13:38:32,265 INFO  [Login     ][TC_006_Login_So_Co_Dinh_Khong_Hop_Le] Kiểm tra message hiển thị tại trường mật khẩu
+2024-10-09 13:38:37,731 INFO  [Login     ][TC_007_Login_Thanh_Cong_Voi_So_DD] Mở tab đăng nhập với số Di động
+2024-10-09 13:38:42,754 INFO  [Login     ][TC_007_Login_Thanh_Cong_Voi_So_DD] Nhập vào số điện thoại hợp lệ
+2024-10-09 13:38:44,217 INFO  [Login     ][TC_007_Login_Thanh_Cong_Voi_So_DD] Nhập vào mật hợp lệ
+2024-10-09 13:38:46,141 INFO  [Login     ][TC_007_Login_Thanh_Cong_Voi_So_DD] Bấm vào nút 'Đăng nhập'
+2024-10-09 13:38:47,055 INFO  [Login     ][TC_007_Login_Thanh_Cong_Voi_So_DD] Cho phép nhận thông báo
+2024-10-09 13:38:49,799 INFO  [Login     ][TC_007_Login_Thanh_Cong_Voi_So_DD] Verify số điện thoại đã vt được hiển thị
+2024-10-09 13:42:03,809 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Open app
+2024-10-09 13:42:04,437 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Tap vào nút Tiếp tục
+2024-10-09 13:42:05,317 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Tap vào nút Tiếp tục
+2024-10-09 13:42:05,482 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Tap vào nút Khám phá ngay
+2024-10-09 13:42:06,396 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Kiểm tra các thành phần trên màn
+2024-10-09 13:42:10,775 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Click vào nút đăng nhập bằng mật khẩu
+2024-10-09 13:42:12,874 INFO  [Login     ][TC_002_Login_Voi_Du_Lieu_Trong_Tab_Di_Dong] Bấm vào nút 'Đăng nhập'
+2024-10-09 13:42:13,884 INFO  [Login     ][TC_002_Login_Voi_Du_Lieu_Trong_Tab_Di_Dong] Verify message hiển thị tại trường SĐT
+2024-10-09 13:42:14,089 INFO  [Login     ][TC_002_Login_Voi_Du_Lieu_Trong_Tab_Di_Dong] Nhập vào số điện thoại hợp lệ
+2024-10-09 13:42:15,803 INFO  [Login     ][TC_002_Login_Voi_Du_Lieu_Trong_Tab_Di_Dong] Bấm vào nút 'Đăng nhập'
+2024-10-09 13:42:16,901 INFO  [Login     ][TC_002_Login_Voi_Du_Lieu_Trong_Tab_Di_Dong] Verify message hiển thị tại trường Mật khẩu
+2024-10-09 13:42:17,717 INFO  [Login     ][TC_003_Login_Voi_SDD_Khong_Hop_Le] Nhập vào số điện thoại nhỏ hơn 9 ký tự
+2024-10-09 13:42:19,256 INFO  [Login     ][TC_003_Login_Voi_SDD_Khong_Hop_Le] Bấm vào nút 'Đăng nhập'
+2024-10-09 13:42:20,167 INFO  [Login     ][TC_003_Login_Voi_SDD_Khong_Hop_Le] Verify message hiển thị tại trường SĐT
+2024-10-09 13:42:20,935 INFO  [Login     ][TC_003_Login_Voi_SDD_Khong_Hop_Le] Nhập vào số điện thoại lớn hơn 12 ký tự
+2024-10-09 13:42:22,644 INFO  [Login     ][TC_003_Login_Voi_SDD_Khong_Hop_Le] Bấm vào nút 'Đăng nhập'
+2024-10-09 13:42:24,229 INFO  [Login     ][TC_003_Login_Voi_SDD_Khong_Hop_Le] Verify message hiển thị tại trường SĐT
+2024-10-09 13:42:24,232 INFO  [Login     ][TC_004_Login_Voi_Mat_Khau_Khong_Chinh_Xac] Nhập vào số điện thoại hợp lệ
+2024-10-09 13:42:25,814 INFO  [Login     ][TC_004_Login_Voi_Mat_Khau_Khong_Chinh_Xac] Nhập vào mật khẩu không chính xác
+2024-10-09 13:42:27,898 INFO  [Login     ][TC_004_Login_Voi_Mat_Khau_Khong_Chinh_Xac] Bấm vào nút 'Đăng nhập'
+2024-10-09 13:42:29,717 INFO  [Login     ][TC_004_Login_Voi_Mat_Khau_Khong_Chinh_Xac] Verify message hiển thị
+2024-10-09 13:42:50,208 INFO  [Login     ][TC_005_Login_Voi_Du_Lieu_Trong_Tab_Co_Dinh] Mở tab đăng nhập với Internet/TV/PSTN
+2024-10-09 13:42:55,849 INFO  [Login     ][TC_005_Login_Voi_Du_Lieu_Trong_Tab_Co_Dinh] Bấm vào nút 'Đăng nhập'
+2024-10-09 13:42:56,511 INFO  [Login     ][TC_005_Login_Voi_Du_Lieu_Trong_Tab_Co_Dinh] Kiểm tra message hiển thị
+2024-10-09 13:43:17,070 INFO  [Login     ][TC_005_Login_Voi_Du_Lieu_Trong_Tab_Co_Dinh] Nhập vào trường tài khoản
+2024-10-09 13:43:18,629 INFO  [Login     ][TC_005_Login_Voi_Du_Lieu_Trong_Tab_Co_Dinh] Bấm vào nút 'Đăng nhập'
+2024-10-09 13:43:19,619 INFO  [Login     ][TC_005_Login_Voi_Du_Lieu_Trong_Tab_Co_Dinh] Kiểm tra message hiển thị
+2024-10-09 13:43:40,327 INFO  [Login     ][TC_006_Login_So_Co_Dinh_Khong_Hop_Le] Nhập vào mật khẩu không hợp lệ
+2024-10-09 13:43:42,071 INFO  [Login     ][TC_006_Login_So_Co_Dinh_Khong_Hop_Le] Kiểm tra message hiển thị tại trường mật khẩu
+2024-10-09 13:43:47,111 INFO  [Login     ][TC_007_Login_Thanh_Cong_Voi_So_DD] Mở tab đăng nhập với số Di động
+2024-10-09 13:43:52,568 INFO  [Login     ][TC_007_Login_Thanh_Cong_Voi_So_DD] Nhập vào số điện thoại hợp lệ
+2024-10-09 13:43:54,345 INFO  [Login     ][TC_007_Login_Thanh_Cong_Voi_So_DD] Nhập vào mật hợp lệ
+2024-10-09 13:43:56,616 INFO  [Login     ][TC_007_Login_Thanh_Cong_Voi_So_DD] Bấm vào nút 'Đăng nhập'
+2024-10-09 13:43:57,837 INFO  [Login     ][TC_007_Login_Thanh_Cong_Voi_So_DD] Cho phép nhận thông báo
+2024-10-09 13:44:00,980 INFO  [Login     ][TC_007_Login_Thanh_Cong_Voi_So_DD] Verify số điện thoại đã vt được hiển thị
+2024-10-09 13:49:00,561 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Open app
+2024-10-09 13:49:01,131 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Tap vào nút Tiếp tục
+2024-10-09 13:49:01,993 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Tap vào nút Tiếp tục
+2024-10-09 13:49:02,961 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Tap vào nút Khám phá ngay
+2024-10-09 13:49:03,952 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Kiểm tra các thành phần trên màn
+2024-10-09 13:49:08,054 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Click vào nút đăng nhập bằng mật khẩu
+2024-10-09 13:49:09,987 INFO  [Login     ][TC_002_Login_Voi_Du_Lieu_Trong_Tab_Di_Dong] Bấm vào nút 'Đăng nhập'
+2024-10-09 13:49:10,962 INFO  [Login     ][TC_002_Login_Voi_Du_Lieu_Trong_Tab_Di_Dong] Verify message hiển thị tại trường SĐT
+2024-10-09 13:49:11,138 INFO  [Login     ][TC_002_Login_Voi_Du_Lieu_Trong_Tab_Di_Dong] Nhập vào số điện thoại hợp lệ
+2024-10-09 13:49:12,840 INFO  [Login     ][TC_002_Login_Voi_Du_Lieu_Trong_Tab_Di_Dong] Bấm vào nút 'Đăng nhập'
+2024-10-09 13:49:13,957 INFO  [Login     ][TC_002_Login_Voi_Du_Lieu_Trong_Tab_Di_Dong] Verify message hiển thị tại trường Mật khẩu
+2024-10-09 13:49:14,771 INFO  [Login     ][TC_003_Login_Voi_SDD_Khong_Hop_Le] Nhập vào số điện thoại nhỏ hơn 9 ký tự
+2024-10-09 13:49:16,258 INFO  [Login     ][TC_003_Login_Voi_SDD_Khong_Hop_Le] Bấm vào nút 'Đăng nhập'
+2024-10-09 13:49:17,158 INFO  [Login     ][TC_003_Login_Voi_SDD_Khong_Hop_Le] Verify message hiển thị tại trường SĐT
+2024-10-09 13:49:17,991 INFO  [Login     ][TC_003_Login_Voi_SDD_Khong_Hop_Le] Nhập vào số điện thoại lớn hơn 12 ký tự
+2024-10-09 13:49:19,724 INFO  [Login     ][TC_003_Login_Voi_SDD_Khong_Hop_Le] Bấm vào nút 'Đăng nhập'
+2024-10-09 13:49:21,345 INFO  [Login     ][TC_003_Login_Voi_SDD_Khong_Hop_Le] Verify message hiển thị tại trường SĐT
+2024-10-09 13:49:21,345 INFO  [Login     ][TC_004_Login_Voi_Mat_Khau_Khong_Chinh_Xac] Nhập vào số điện thoại hợp lệ
+2024-10-09 13:49:23,136 INFO  [Login     ][TC_004_Login_Voi_Mat_Khau_Khong_Chinh_Xac] Nhập vào mật khẩu không chính xác
+2024-10-09 13:49:25,223 INFO  [Login     ][TC_004_Login_Voi_Mat_Khau_Khong_Chinh_Xac] Bấm vào nút 'Đăng nhập'
+2024-10-09 13:49:26,347 INFO  [Login     ][TC_004_Login_Voi_Mat_Khau_Khong_Chinh_Xac] Verify message hiển thị
+2024-10-09 13:49:46,528 INFO  [Login     ][TC_005_Login_Voi_Du_Lieu_Trong_Tab_Co_Dinh] Mở tab đăng nhập với Internet/TV/PSTN
+2024-10-09 13:49:51,854 INFO  [Login     ][TC_005_Login_Voi_Du_Lieu_Trong_Tab_Co_Dinh] Bấm vào nút 'Đăng nhập'
+2024-10-09 13:49:52,572 INFO  [Login     ][TC_005_Login_Voi_Du_Lieu_Trong_Tab_Co_Dinh] Kiểm tra message hiển thị
+2024-10-09 13:50:12,675 INFO  [Login     ][TC_005_Login_Voi_Du_Lieu_Trong_Tab_Co_Dinh] Nhập vào trường tài khoản
+2024-10-09 13:50:14,427 INFO  [Login     ][TC_005_Login_Voi_Du_Lieu_Trong_Tab_Co_Dinh] Bấm vào nút 'Đăng nhập'
+2024-10-09 13:50:16,200 INFO  [Login     ][TC_005_Login_Voi_Du_Lieu_Trong_Tab_Co_Dinh] Kiểm tra message hiển thị
+2024-10-09 13:50:36,368 INFO  [Login     ][TC_006_Login_So_Co_Dinh_Khong_Hop_Le] Nhập vào trường tài khoản
+2024-10-09 13:50:38,270 INFO  [Login     ][TC_006_Login_So_Co_Dinh_Khong_Hop_Le] Nhập vào mật khẩu không hợp lệ
+2024-10-09 13:50:40,425 INFO  [Login     ][TC_006_Login_So_Co_Dinh_Khong_Hop_Le] Kiểm tra message hiển thị tại trường mật khẩu
+2024-10-09 13:50:46,105 INFO  [Login     ][TC_007_Login_Thanh_Cong_Voi_So_DD] Mở tab đăng nhập với số Di động
+2024-10-09 13:50:52,043 INFO  [Login     ][TC_007_Login_Thanh_Cong_Voi_So_DD] Nhập vào số điện thoại hợp lệ
+2024-10-09 13:50:53,499 INFO  [Login     ][TC_007_Login_Thanh_Cong_Voi_So_DD] Nhập vào mật hợp lệ
+2024-10-09 13:51:51,233 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Open app
+2024-10-09 13:51:51,821 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Tap vào nút Tiếp tục
+2024-10-09 13:51:52,667 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Tap vào nút Tiếp tục
+2024-10-09 13:51:53,529 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Tap vào nút Khám phá ngay
+2024-10-09 13:51:53,841 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Kiểm tra các thành phần trên màn
+2024-10-09 13:51:57,998 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Click vào nút đăng nhập bằng mật khẩu
+2024-10-09 13:52:00,061 INFO  [Login     ][TC_002_Login_Voi_Du_Lieu_Trong_Tab_Di_Dong] Bấm vào nút 'Đăng nhập'
+2024-10-09 13:52:01,079 INFO  [Login     ][TC_002_Login_Voi_Du_Lieu_Trong_Tab_Di_Dong] Verify message hiển thị tại trường SĐT
+2024-10-09 13:52:01,244 INFO  [Login     ][TC_002_Login_Voi_Du_Lieu_Trong_Tab_Di_Dong] Nhập vào số điện thoại hợp lệ
+2024-10-09 13:52:02,887 INFO  [Login     ][TC_002_Login_Voi_Du_Lieu_Trong_Tab_Di_Dong] Bấm vào nút 'Đăng nhập'
+2024-10-09 13:52:03,922 INFO  [Login     ][TC_002_Login_Voi_Du_Lieu_Trong_Tab_Di_Dong] Verify message hiển thị tại trường Mật khẩu
+2024-10-09 13:52:04,700 INFO  [Login     ][TC_003_Login_Voi_SDD_Khong_Hop_Le] Nhập vào số điện thoại nhỏ hơn 9 ký tự
+2024-10-09 13:52:06,241 INFO  [Login     ][TC_003_Login_Voi_SDD_Khong_Hop_Le] Bấm vào nút 'Đăng nhập'
+2024-10-09 13:52:07,776 INFO  [Login     ][TC_003_Login_Voi_SDD_Khong_Hop_Le] Verify message hiển thị tại trường SĐT
+2024-10-09 13:52:08,603 INFO  [Login     ][TC_003_Login_Voi_SDD_Khong_Hop_Le] Nhập vào số điện thoại lớn hơn 12 ký tự
+2024-10-09 13:52:10,261 INFO  [Login     ][TC_003_Login_Voi_SDD_Khong_Hop_Le] Bấm vào nút 'Đăng nhập'
+2024-10-09 13:52:11,957 INFO  [Login     ][TC_003_Login_Voi_SDD_Khong_Hop_Le] Verify message hiển thị tại trường SĐT
+2024-10-09 13:52:11,960 INFO  [Login     ][TC_004_Login_Voi_Mat_Khau_Khong_Chinh_Xac] Nhập vào số điện thoại hợp lệ
+2024-10-09 13:52:13,702 INFO  [Login     ][TC_004_Login_Voi_Mat_Khau_Khong_Chinh_Xac] Nhập vào mật khẩu không chính xác
+2024-10-09 13:52:15,632 INFO  [Login     ][TC_004_Login_Voi_Mat_Khau_Khong_Chinh_Xac] Bấm vào nút 'Đăng nhập'
+2024-10-09 13:52:16,735 INFO  [Login     ][TC_004_Login_Voi_Mat_Khau_Khong_Chinh_Xac] Verify message hiển thị
+2024-10-09 13:52:37,450 INFO  [Login     ][TC_005_Login_Voi_Du_Lieu_Trong_Tab_Co_Dinh] Bấm nút quay lại
+2024-10-09 13:52:38,679 INFO  [Login     ][TC_005_Login_Voi_Du_Lieu_Trong_Tab_Co_Dinh] Mở tab đăng nhập với Internet/TV/PSTN
+2024-10-09 13:52:38,941 INFO  [Login     ][TC_005_Login_Voi_Du_Lieu_Trong_Tab_Co_Dinh] Bấm vào nút 'Đăng nhập'
+2024-10-09 13:52:40,057 INFO  [Login     ][TC_005_Login_Voi_Du_Lieu_Trong_Tab_Co_Dinh] Kiểm tra message hiển thị
+2024-10-09 13:53:00,720 INFO  [Login     ][TC_005_Login_Voi_Du_Lieu_Trong_Tab_Co_Dinh] Nhập vào trường tài khoản
+2024-10-09 13:53:02,591 INFO  [Login     ][TC_005_Login_Voi_Du_Lieu_Trong_Tab_Co_Dinh] Bấm vào nút 'Đăng nhập'
+2024-10-09 13:53:03,839 INFO  [Login     ][TC_005_Login_Voi_Du_Lieu_Trong_Tab_Co_Dinh] Kiểm tra message hiển thị
+2024-10-09 13:53:24,050 INFO  [Login     ][TC_006_Login_So_Co_Dinh_Khong_Hop_Le] Nhập vào trường tài khoản
+2024-10-09 13:53:25,745 INFO  [Login     ][TC_006_Login_So_Co_Dinh_Khong_Hop_Le] Nhập vào mật khẩu không hợp lệ
+2024-10-09 13:53:27,932 INFO  [Login     ][TC_006_Login_So_Co_Dinh_Khong_Hop_Le] Kiểm tra message hiển thị tại trường mật khẩu
+2024-10-09 13:53:33,059 INFO  [Login     ][TC_007_Login_Thanh_Cong_Voi_So_DD] Mở tab đăng nhập với số Di động
+2024-10-09 13:53:33,407 INFO  [Login     ][TC_007_Login_Thanh_Cong_Voi_So_DD] Nhập vào số điện thoại hợp lệ
+2024-10-09 13:53:35,686 INFO  [Login     ][TC_007_Login_Thanh_Cong_Voi_So_DD] Nhập vào mật hợp lệ
+2024-10-09 13:54:25,795 INFO  [Login     ][TC_006_Login_So_Co_Dinh_Khong_Hop_Le] Nhập vào trường tài khoản
+2024-10-09 13:55:07,818 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Open app
+2024-10-09 13:55:08,381 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Tap vào nút Tiếp tục
+2024-10-09 13:55:09,232 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Tap vào nút Tiếp tục
+2024-10-09 13:55:10,222 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Tap vào nút Khám phá ngay
+2024-10-09 13:55:10,582 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Kiểm tra các thành phần trên màn
+2024-10-09 13:55:14,486 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Click vào nút đăng nhập bằng mật khẩu
+2024-10-09 13:55:16,577 INFO  [Login     ][TC_005_Login_Voi_Du_Lieu_Trong_Tab_Co_Dinh] Bấm nút quay lại
+2024-10-09 13:55:17,452 INFO  [Login     ][TC_005_Login_Voi_Du_Lieu_Trong_Tab_Co_Dinh] Mở tab đăng nhập với Internet/TV/PSTN
+2024-10-09 13:55:17,766 INFO  [Login     ][TC_005_Login_Voi_Du_Lieu_Trong_Tab_Co_Dinh] Bấm vào nút 'Đăng nhập'
+2024-10-09 13:55:18,854 INFO  [Login     ][TC_005_Login_Voi_Du_Lieu_Trong_Tab_Co_Dinh] Kiểm tra message hiển thị
+2024-10-09 13:55:39,205 INFO  [Login     ][TC_005_Login_Voi_Du_Lieu_Trong_Tab_Co_Dinh] Nhập vào trường tài khoản
+2024-10-09 13:55:40,382 INFO  [Login     ][TC_005_Login_Voi_Du_Lieu_Trong_Tab_Co_Dinh] Bấm vào nút 'Đăng nhập'
+2024-10-09 13:55:41,460 INFO  [Login     ][TC_005_Login_Voi_Du_Lieu_Trong_Tab_Co_Dinh] Kiểm tra message hiển thị
+2024-10-09 13:56:01,930 INFO  [Login     ][TC_006_Login_So_Co_Dinh_Khong_Hop_Le] Nhập vào trường tài khoản
+2024-10-09 13:56:03,598 INFO  [Login     ][TC_006_Login_So_Co_Dinh_Khong_Hop_Le] Nhập vào mật khẩu không hợp lệ
+2024-10-09 13:56:05,314 INFO  [Login     ][TC_006_Login_So_Co_Dinh_Khong_Hop_Le] Kiểm tra message hiển thị tại trường mật khẩu
+2024-10-09 13:56:39,961 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Open app
+2024-10-09 13:56:40,583 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Tap vào nút Tiếp tục
+2024-10-09 13:56:41,430 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Tap vào nút Tiếp tục
+2024-10-09 13:56:42,314 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Tap vào nút Khám phá ngay
+2024-10-09 13:56:42,608 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Kiểm tra các thành phần trên màn
+2024-10-09 13:56:46,564 INFO  [Login     ][TC_001_Check_Man_Hinh_Welcome] Click vào nút đăng nhập bằng mật khẩu
+2024-10-09 13:56:48,492 INFO  [Login     ][TC_005_Login_Voi_Du_Lieu_Trong_Tab_Co_Dinh] Bấm nút quay lại
+2024-10-09 13:56:49,313 INFO  [Login     ][TC_005_Login_Voi_Du_Lieu_Trong_Tab_Co_Dinh] Mở tab đăng nhập với Internet/TV/PSTN
+2024-10-09 13:56:49,604 INFO  [Login     ][TC_005_Login_Voi_Du_Lieu_Trong_Tab_Co_Dinh] Bấm vào nút 'Đăng nhập'
+2024-10-09 13:56:50,656 INFO  [Login     ][TC_005_Login_Voi_Du_Lieu_Trong_Tab_Co_Dinh] Kiểm tra message hiển thị
+2024-10-09 13:57:11,350 INFO  [Login     ][TC_005_Login_Voi_Du_Lieu_Trong_Tab_Co_Dinh] Nhập vào trường tài khoản
+2024-10-09 13:57:13,258 INFO  [Login     ][TC_005_Login_Voi_Du_Lieu_Trong_Tab_Co_Dinh] Bấm vào nút 'Đăng nhập'
+2024-10-09 13:57:14,375 INFO  [Login     ][TC_005_Login_Voi_Du_Lieu_Trong_Tab_Co_Dinh] Kiểm tra message hiển thị
+2024-10-09 13:57:34,816 INFO  [Login     ][TC_006_Login_So_Co_Dinh_Khong_Hop_Le] Nhập vào trường tài khoản
+2024-10-09 13:57:36,384 INFO  [Login     ][TC_006_Login_So_Co_Dinh_Khong_Hop_Le] Nhập vào mật khẩu không hợp lệ
+2024-10-09 13:57:38,038 INFO  [Login     ][TC_006_Login_So_Co_Dinh_Khong_Hop_Le] Bấm vào nút 'Đăng nhập'
+2024-10-09 13:57:39,325 INFO  [Login     ][TC_006_Login_So_Co_Dinh_Khong_Hop_Le] Kiểm tra message hiển thị tại trường mật khẩu
+2024-10-09 15:06:39,947 INFO  [Cap_Nhat_Thong_Tin_Tai_Khoan][TC_001_Check_Man_Hinh_Welcome] Open app
+2024-10-09 15:06:40,568 INFO  [Cap_Nhat_Thong_Tin_Tai_Khoan][TC_001_Check_Man_Hinh_Welcome] Tap vào nút Bỏ qua
+2024-10-09 15:06:40,698 INFO  [Cap_Nhat_Thong_Tin_Tai_Khoan][TC_001_Check_Man_Hinh_Welcome] Kiểm tra các thành phần trên màn
+2024-10-09 15:06:44,327 INFO  [Cap_Nhat_Thong_Tin_Tai_Khoan][TC_001_Check_Man_Hinh_Welcome] Click vào nút đăng nhập bằng mật khẩu
+2024-10-09 15:06:58,942 INFO  [Cap_Nhat_Thong_Tin_Tai_Khoan][TC_001_Check_Man_Hinh_Welcome] Open app
+2024-10-09 15:06:59,551 INFO  [Cap_Nhat_Thong_Tin_Tai_Khoan][TC_001_Check_Man_Hinh_Welcome] Tap vào nút Bỏ qua
+2024-10-09 15:06:59,701 INFO  [Cap_Nhat_Thong_Tin_Tai_Khoan][TC_001_Check_Man_Hinh_Welcome] Kiểm tra các thành phần trên màn
+2024-10-09 15:07:04,111 INFO  [Cap_Nhat_Thong_Tin_Tai_Khoan][TC_001_Check_Man_Hinh_Welcome] Click vào nút đăng nhập bằng mật khẩu
+2024-10-09 15:07:05,961 INFO  [Cap_Nhat_Thong_Tin_Tai_Khoan][TC_002_Login_Thanh_Cong_Voi_So_DD] Nhập vào số điện thoại hợp lệ
+2024-10-09 15:07:08,135 INFO  [Cap_Nhat_Thong_Tin_Tai_Khoan][TC_002_Login_Thanh_Cong_Voi_So_DD] Nhập vào mật hợp lệ
+2024-10-09 15:07:10,166 INFO  [Cap_Nhat_Thong_Tin_Tai_Khoan][TC_002_Login_Thanh_Cong_Voi_So_DD] Bấm vào nút 'Đăng nhập'
+2024-10-09 15:07:11,305 INFO  [Cap_Nhat_Thong_Tin_Tai_Khoan][TC_002_Login_Thanh_Cong_Voi_So_DD] Cho phép nhận thông báo
+2024-10-09 15:07:14,578 INFO  [Cap_Nhat_Thong_Tin_Tai_Khoan][TC_002_Login_Thanh_Cong_Voi_So_DD] Verify số điện thoại đã login được hiển thị
+2024-10-09 15:07:25,742 INFO  [Cap_Nhat_Thong_Tin_Tai_Khoan][TC_003_Kiem_Tra_Thong_Tin_Tai_Khoan] Bấm vào tên tài khoản
+2024-10-09 15:07:27,289 INFO  [Cap_Nhat_Thong_Tin_Tai_Khoan][TC_003_Kiem_Tra_Thong_Tin_Tai_Khoan] Mở tab Cá nhân

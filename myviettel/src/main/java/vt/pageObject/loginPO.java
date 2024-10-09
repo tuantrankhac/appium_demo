@@ -1,17 +1,23 @@
-package login.pageObject;
+package vt.pageObject;
 
 import common.commonBase;
-import login.pageUi.loginPageUI;
-
-
+import vt.pageUi.loginPageUI;
 import io.appium.java_client.AppiumDriver;
-import org.openqa.selenium.WebDriver;
 
 public class loginPO extends commonBase {
 
-	public loginPO(AppiumDriver dr) {
-		driver = dr;
+
+
+	public loginPO(AppiumDriver driver) {
+		this.driver = driver;
 	}
+
+	public dashboardPO pressToLoginButton() {
+		waitForElementClickable(loginPageUI.LOGIN_BT);
+		click(loginPageUI.LOGIN_BT);
+		return dashboardPO.getDashboardPage(driver);
+	}
+
 
 	public void enterSDTToTextbox(String value) {
 		waitForElementVisible(loginPageUI.SDT_FIELD);

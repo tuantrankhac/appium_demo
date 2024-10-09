@@ -42,7 +42,6 @@ import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
 import javax.xml.parsers.ParserConfigurationException;
 
-import login.pageObject.loginPO;
 import org.apache.commons.io.FileUtils;
 import org.apache.commons.lang3.RandomStringUtils;
 import org.json.JSONArray;
@@ -57,7 +56,6 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.openqa.selenium.WebElement;
 import org.testng.Assert;
-import org.testng.Reporter;
 import org.testng.asserts.SoftAssert;
 import org.w3c.dom.Document;
 import org.xml.sax.InputSource;
@@ -75,16 +73,6 @@ import io.appium.java_client.ios.IOSDriver;
 
 
 public class commonBase {
-	public AppiumDriver driver;
-	public WebDriver driverWeb;
-	protected int DEFAULT_TIMEOUT = 40000;
-	protected int WAIT_INTERVAL = 500;
-	public int loopCount = 0;
-	public final int ACTION_REPEAT = 5;
-	public Actions action;
-	public SoftAssert softAssert;
-
-
 
 	public void getMeasuresCreenTransitionTime(String locator, String value1, String value2) {
 		long startTime = System.currentTimeMillis();
@@ -260,7 +248,7 @@ public class commonBase {
 		// Tính toán các điểm bắt đầu và kết thúc cho thao tác cuộn
 		int startX = screenWidth / 2; // Điểm giữa màn hình theo chiều ngang
 		int startY = (int) (screenHeight * 0.5); // 50% chiều cao màn hình từ trên xuống
-		int endY = (int) (screenHeight * 0.2); // 20% chiều cao màn hình từ trên xuống
+		int endY = (int) (screenHeight * 0.25); // 30% chiều cao màn hình từ trên xuống
 
 		// Tạo một PointerInput để mô phỏng thao tác chạm
 		PointerInput finger = new PointerInput(PointerInput.Kind.TOUCH, "finger");
@@ -407,11 +395,23 @@ public class commonBase {
 		return By.xpath(xpathLocator);
 	}
 
-
+	private String getDynamicLocator(String xpathLocator, String... params) {
+		return String.format(xpathLocator, (Object[])params);
+	}
 
 	public WebElement waitForElementVisible(String xpathLocator) {
 		WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(shortTimeout));
 		return wait.until(ExpectedConditions.visibilityOfElementLocated(getByXpath(xpathLocator)));
+	}
+
+	public void waitForElementClickable(String xpathLocator) {
+		explicitWait = new WebDriverWait(driver, Duration.ofSeconds(longTimeout));
+		explicitWait.until(ExpectedConditions.elementToBeClickable(getByXpath(xpathLocator)));
+	}
+
+	public void waitForElementClickable(String xpathLocator, String... params) {
+		explicitWait = new WebDriverWait(driver, Duration.ofSeconds(longTimeout));
+		explicitWait.until(ExpectedConditions.elementToBeClickable(getByXpath(getDynamicLocator(xpathLocator, params))));
 	}
 
 
@@ -533,6 +533,16 @@ public class commonBase {
 			loopCount = 0;
 		}
 		return bool;
+	}
+
+	public boolean isElementDisplayed(String xpathLocator) {
+		try {
+			WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(longTimeout));
+			wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath(xpathLocator)));
+			return driver.findElement(By.xpath(xpathLocator)).isDisplayed();
+		} catch (WebDriverException e) {
+			return false;
+		}
 	}
 
 	/**
@@ -807,19 +817,6 @@ public class commonBase {
 		if (s1 != null && s2 != null) {
 			Assert.assertFalse(!s2.contains(s1), "Chuỗi " + s1 + " không nằm trong chuỗi " + s2);
 		}
-	}
-
-	protected boolean verifyTrue(boolean condition) {
-		boolean status = true;
-		try {
-			Assert.assertTrue(condition);
-			info("---------------------- Passed -----------------------");
-		} catch (Throwable e) {
-			status = false;
-			Reporter.getCurrentTestResult().setThrowable(e);
-			info("---------------------- Failed -----------------------");
-		}
-		return status;
 	}
 
 	public void verifyNotContains(String s1, String s2) {
@@ -1876,10 +1873,18 @@ public class commonBase {
 		}
 	}
 
-
+	public AppiumDriver driver;
+	public WebDriver driverWeb;
+	protected int DEFAULT_TIMEOUT = 40000;
+	protected int WAIT_INTERVAL = 500;
+	public int loopCount = 0;
+	public final int ACTION_REPEAT = 5;
+	public Actions action;
+	public SoftAssert softAssert;
 	private long shortTimeout = Constant.SHORT_TIMEOUT;
 	private long longTimeout = Constant.LONG_TIMEOUT;
 	private WebDriverWait explicitWait;
 	private JavascriptExecutor jsExecutor;
+
 
 }

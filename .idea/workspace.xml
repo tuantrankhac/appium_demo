@@ -39,9 +39,14 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "TestNG.C:/Users/Admin/Desktop/AT/appium_demo/myviettel/src/main/resources/suites/Connect.xml.executor": "Run",
+    "TestNG.Cap_Nhat_Thong_Tin_Tai_Khoan.TC_001_Check_Man_Hinh_Welcome.executor": "Run",
+    "TestNG.Cap_Nhat_Thong_Tin_Tai_Khoan.executor": "Run",
     "TestNG.Login (1).executor": "Run",
+    "TestNG.Login (2).executor": "Run",
     "TestNG.Login.TC_001_Check_Man_Hinh_Welcome.executor": "Run",
     "TestNG.Login.TC_003_Login_Voi_SDT_Khong_Hop_Le.executor": "Run",
+    "TestNG.Login.TC_006_Login_So_Co_Dinh_Khong_Hop_Le.executor": "Run",
+    "TestNG.Login.executor": "Run",
     "TestNG.TC_001_Login (1).executor": "Run",
     "TestNG.TC_001_Login (2).executor": "Run",
     "TestNG.TC_001_Login.TS_001_Login_Voi_Thong_Tin_Khong_Hop_Le.executor": "Run",
@@ -54,7 +59,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "inlay.hints",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -67,21 +72,59 @@
       <recent name="C:\Users\Admin\Desktop\AT\appium_demo\myviettel\src\main\java" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="vt.pageObject" />
+      <recent name="vt.pageUi" />
+      <recent name="vt.testSuite" />
+      <recent name="login.pageUi" />
       <recent name="login.pageObject" />
-      <recent name="login.testSuite" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.TC_001_Login">
-    <configuration name="Login (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.Cap_Nhat_Thong_Tin_Tai_Khoan">
+    <configuration name="Cap_Nhat_Thong_Tin_Tai_Khoan" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="appium" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="login.testSuite.*" />
+          <option name="PATTERN" value="vt.testSuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="vt.testSuite" />
+      <option name="MAIN_CLASS_NAME" value="vt.testSuite.Cap_Nhat_Thong_Tin_Tai_Khoan" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Cap_Nhat_Thong_Tin_Tai_Khoan.TC_001_Check_Man_Hinh_Welcome" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="appium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="vt.testSuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="vt.testSuite" />
+      <option name="MAIN_CLASS_NAME" value="vt.testSuite.Cap_Nhat_Thong_Tin_Tai_Khoan" />
+      <option name="METHOD_NAME" value="TC_001_Check_Man_Hinh_Welcome" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Login" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="appium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="vt.testSuite.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="login.testSuite" />
-      <option name="MAIN_CLASS_NAME" value="login.testSuite.Login" />
+      <option name="MAIN_CLASS_NAME" value="vt.testSuite.Login" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -93,12 +136,12 @@
       <module name="appium" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="login.testSuite.*" />
+          <option name="PATTERN" value="vt.testSuite.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="login.testSuite" />
-      <option name="MAIN_CLASS_NAME" value="login.testSuite.Login" />
+      <option name="MAIN_CLASS_NAME" value="vt.testSuite.Login" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -106,88 +149,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Login.TC_001_Check_Man_Hinh_Welcome" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Login.TC_006_Login_So_Co_Dinh_Khong_Hop_Le" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="appium" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="login.testSuite.*" />
+          <option name="PATTERN" value="vt.testSuite.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="login.testSuite" />
-      <option name="MAIN_CLASS_NAME" value="login.testSuite.Login" />
-      <option name="METHOD_NAME" value="TC_001_Check_Man_Hinh_Welcome" />
+      <option name="MAIN_CLASS_NAME" value="vt.testSuite.Login" />
+      <option name="METHOD_NAME" value="TC_006_Login_So_Co_Dinh_Khong_Hop_Le" />
       <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Login.TC_003_Login_Voi_SDT_Khong_Hop_Le" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="appium" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="login.testSuite.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="login.testSuite" />
-      <option name="MAIN_CLASS_NAME" value="login.testSuite.Login" />
-      <option name="METHOD_NAME" value="TC_003_Login_Voi_SDT_Khong_Hop_Le" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Login.TS_001_Login_Voi_Thong_Tin_Khong_Hop_Le" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="appium" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="login.testSuite.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="login.testSuite" />
-      <option name="MAIN_CLASS_NAME" value="login.testSuite.Login" />
-      <option name="METHOD_NAME" value="TS_001_Login_Voi_Thong_Tin_Khong_Hop_Le" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TC_001_Login (1)" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="appium" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="login.testSuite.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="login.testSuite" />
-      <option name="MAIN_CLASS_NAME" value="login.testSuite.TC_001_Login" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TC_001_Login" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="appium" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="login.testSuite.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="login.testSuite" />
-      <option name="MAIN_CLASS_NAME" value="login.testSuite.TC_001_Login" />
-      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
@@ -196,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.TC_001_Login" />
-        <item itemvalue="TestNG.Login.TC_003_Login_Voi_SDT_Khong_Hop_Le" />
-        <item itemvalue="TestNG.Login (1)" />
-        <item itemvalue="TestNG.Login.TC_001_Check_Man_Hinh_Welcome" />
-        <item itemvalue="TestNG.TC_001_Login.TS_001_Login_Voi_Thong_Tin_Khong_Hop_Le" />
+        <item itemvalue="TestNG.Cap_Nhat_Thong_Tin_Tai_Khoan" />
+        <item itemvalue="TestNG.Cap_Nhat_Thong_Tin_Tai_Khoan.TC_001_Check_Man_Hinh_Welcome" />
+        <item itemvalue="TestNG.Login" />
+        <item itemvalue="TestNG.Login.TC_006_Login_So_Co_Dinh_Khong_Hop_Le" />
+        <item itemvalue="TestNG.Login (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -223,7 +196,8 @@
       <workItem from="1728271044000" duration="923000" />
       <workItem from="1728272000343" duration="3402000" />
       <workItem from="1728284104071" duration="1453000" />
-      <workItem from="1728288350295" duration="31697000" />
+      <workItem from="1728288350295" duration="34050000" />
+      <workItem from="1728440463854" duration="17922000" />
     </task>
     <servers />
   </component>

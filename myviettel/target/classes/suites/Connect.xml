@@ -2,7 +2,7 @@
 <suite name="Login" verbose="1" preserve-order="true">
 	<test name="Connect" enabled="true">
 	<packages>
-		<package name="login.testSuite.Login" />
+		<package name="vt.testSuite.Login" />
 	</packages>
 	</test>
 	<listeners>

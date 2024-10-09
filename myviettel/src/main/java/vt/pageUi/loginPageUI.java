@@ -1,4 +1,4 @@
-package login.pageUi;
+package vt.pageUi;
 
 public class loginPageUI {
     public static final String CONT_BT = "//android.widget.Button[@resource-id=\"com.vttm.vietteldiscovery:id/n_btn_continue\"]";
@@ -20,7 +20,12 @@ public class loginPageUI {
 
     public static final String VALIDATE_MESSAGE_SDT = "//android.widget.TextView[@resource-id=\"com.vttm.vietteldiscovery:id/tv_phone_error\"]";
     public static final String VALIDATE_MESSAGE_PASSWORD = "//android.widget.TextView[@resource-id=\"com.vttm.vietteldiscovery:id/tv_password_error\"]";
-    public static final String INVALID_SDT_PASS_MESSAGE = "";
+    public static final String INVALID_SDT_PASS_MESSAGE = "//android.widget.Toast[@text=\"Tài khoản hoặc mật khẩu không đúng, Xin Quý khách vui lòng thao tác lại.\"]";
+
+    public static final String BACK_BT = "//android.widget.ImageView[@resource-id=\"com.vttm.vietteldiscovery:id/iv_close\"]";
+    public static final String TK_TRONG_MESSAGE = "//android.widget.Toast[@text=\"Tài khoản hoặc số điện thoại đăng nhập không được để trống!\"]";
+    public static final String MK_TRONG_MESSAAAGE = "//android.widget.Toast[@text=\"Mật khẩu không được để trống!\"]";
+
 
 
 
